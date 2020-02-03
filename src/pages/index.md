@@ -22,6 +22,21 @@ blocks:
   content: Our Gatsby starter is pre-configured with support for <strong>markdown</strong>,
     and of course works great with Forestry's CMS.
   image: "/src/images/quickstart.png"
+- template: block__3col
+  component: 3col
+  title: Lets build
+  col1:
+    title: Some shit here
+    content: Content
+    image: ''
+  col2:
+    title: 'Second title '
+    content: 'Second column of shit '
+    image: ''
+  col3:
+    title: Three
+    content: 'Three columns of things '
+    image: ''
 - template: block__feature
   component: feature
   background: dark
