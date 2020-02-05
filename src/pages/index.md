@@ -2,21 +2,6 @@
 title: 'Home Page '
 template: blocks
 blocks:
-- template: block__3col
-  component: 3col
-  title: Lets build
-  col1:
-    title: Some shit here
-    content: Content
-    image: ''
-  col2:
-    title: 'Second title '
-    content: 'Second column of shit '
-    image: ''
-  col3:
-    title: Three
-    content: 'Three columns of things '
-    image: ''
 - template: block__hero
   component: hero
   background: transparent
